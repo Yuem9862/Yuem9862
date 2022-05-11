@@ -2,7 +2,7 @@
 
 - ✔️ A self-taught **frontend** developer breaking into the world of Tech
 
-- 🌱 I’m currently learning **Node, Express and MongoDB**
+- 🌱 I’m currently learning **data structure and algorithms**
 
 - 🗺️ I’m based in **Kingston, Ontario**
 
