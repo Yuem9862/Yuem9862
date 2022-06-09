@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **data structure and algorithms**
 
-- 🗺️ I’m based in **Ontario, **
+- 🗺️ I’m based in **Ontario, Canada**
 
 - 💬 You can contact me at **wym9862@gmail.com**
 
