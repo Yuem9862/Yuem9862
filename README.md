@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yuemin</h1>
 
-- ✔️ A self-taught **frontend** developer breaking into the world of Tech
+- ✔️ A **frontend** enthusiastic breaking into the world of Tech
 
 - 🌱 I’m currently learning **data structure and algorithms**
 
