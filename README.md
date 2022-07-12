@@ -2,7 +2,7 @@
 
 - ✔️ A **frontend** enthusiast breaking into the world of Tech
 
-- 🌱 I’m currently learning **data structure and algorithms**
+- 🌱 I’m currently learning **Typescript**
 
 - 🗺️ I’m based in **Ontario, Canada**
 
